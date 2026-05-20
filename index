@@ -34,9 +34,9 @@ html, body {
 <canvas id="canvas"></canvas>
 <div id="status">Loading…</div>
 
-<script src="https://YOUR_USERNAME.github.io/brotato-web/Brotato.js"></script>
+<script src="https://benmillheim-stay.github.io/brotato-web/Brotato.js"></script>
 <script>
-const BASE = "https://YOUR_USERNAME.github.io/brotato-web/";
+const BASE = "https://benmillheim-stay.github.io/brotato-web/";
 
 const engine = new Engine({
     executable: "Brotato",
